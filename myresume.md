@@ -23,7 +23,6 @@ permalink: /myresume/
   <p class="output">The page is currently verifying automatically and will redirect to the main page...</p>
 </div>
 
-</body>
 
 <!-- 8 -->
 <div class="loader loader--style8" title="7">
