@@ -18,7 +18,6 @@ permalink: /myresume/
   <div class="noise"></div>
 <div class="overlay"></div>
 <div class="terminal">
-  <h1>DDOS <span class="errorcode">GUARD</span></h1>
   <p class="output">This page is currently verifying, are you human?</p>
   <p class="output">Please waiting...</a>.</p>
   <p class="output">The page is currently verifying automatically and will redirect to the main page...</p>
