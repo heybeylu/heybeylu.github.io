@@ -5,7 +5,6 @@ permalink: /myresume/
 ---
 
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
