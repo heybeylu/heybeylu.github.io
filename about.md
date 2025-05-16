@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: My Resume
+permalink: /myresume/
 ---
 
 Some information about you!
