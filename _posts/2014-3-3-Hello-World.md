@@ -7,7 +7,7 @@ Saya adalah seorang profesional dengan latar belakang Customer Service yang kini
 
 Perpaduan antara pengalaman melayani pelanggan dan strategi digital memungkinkan saya memahami audiens dengan lebih baik dalam menyusun konten, optimasi SEO, serta kampanye digital yang efektif.
 
-![_config.yml]({{ site.baseurl }}
+{{ site.baseurl }}
 
 Proyek Terakhir :
 
