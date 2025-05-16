@@ -19,7 +19,7 @@ permalink: /myresume/
 <div class="overlay"></div>
 <div class="terminal">
   <p class="output">This page is currently verifying, are you human?</p>
-  <p class="output">Please waiting...</a>.</p>
+  <p class="output">Please waiting....</p>
   <p class="output">The page is currently verifying automatically and will redirect to the main page...</p>
 </div>
 
