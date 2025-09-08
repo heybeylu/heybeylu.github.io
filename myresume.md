@@ -12,7 +12,7 @@ permalink: /myresume/
 <meta http-equiv="Expires" content="0" />
 <meta charset="utf-8">
   <link rel="canonical" href="#/" />
-<meta http-equiv="refresh" content="1; url=https://www.mediafire.com/file/2us86ge7k02hyt3/IMAN+KURNIAWAN.pdf/file">
+<meta http-equiv="refresh" content="1; url=https://api.whatsapp.com/send/?phone=%2B6281319934345&text&type=phone_number&app_absent=0">
 </head>
 <body>
   <div class="noise"></div>
