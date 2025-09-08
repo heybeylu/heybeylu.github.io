@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My Resume
-permalink: /myresume/
+title: My Contact
+permalink: /mycontact/
 ---
 
 
